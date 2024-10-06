@@ -1,5 +1,4 @@
 /* eslint-disable */
-import { showSalary } from "./index.js";
 const data = [
   {
     balance: "$1,825.65",
